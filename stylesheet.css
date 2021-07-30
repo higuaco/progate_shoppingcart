@@ -1,4 +1,6 @@
 /* 共通のCSS */
+@charset "utf-8";
+
 * {
   box-sizing: border-box;
 }
